@@ -1,0 +1,28 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+cache/
+visualize/
+models/
+model/
+results/
+GMEL/data
+GBRT/data
+gravity/data
+random_forest/data
+GOD/data
+logs/
+log/
+*matrix*.csv
+*set*.csv
+traj_train_*.npy
+traj_test_*.npy
+traj_valid_*.npy
+distance_*.csv
+runs/
+# Pyre type checker
+.pyre/
+mlruns/
+*.db
+*.ipynb
+embeddings/
+modelsave/
