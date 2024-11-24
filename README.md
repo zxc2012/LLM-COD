@@ -9,7 +9,7 @@ The project will also need following package dependencies:
 
 ## Pretrained checkpoints
 
-A100 weights could be downloaded at [link]()
+A100 weights could be downloaded at [link](https://huggingface.co/TexasNotFound/LLM-COD)
 
 ## Format of the Data
 ```python
@@ -21,7 +21,7 @@ A100 weights could be downloaded at [link]()
 4   运动健身    02:19    运动健身       1.83
 ```
 
-We obtained the origin Beijing, Chengdu and Xi'an Data from a [VLDB paper](https://connectpolyu-my.sharepoint.com/:f:/g/personal/21037065r_connect_polyu_hk/EgvyOyo1eWNEjPcSjSsVM-0BQGVrfuA0NdTV8ocg6QsaJA?e=gGCXCf)
+We obtained the origin Beijing, Chengdu and Xi'an Data from a [VLDB paper](https://github.com/derekwtian/DRPK)
 
 ### OSM map data
 In the `dataset/city/map` folder, there are the following files:
